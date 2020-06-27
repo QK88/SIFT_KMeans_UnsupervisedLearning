@@ -1,0 +1,2 @@
+# SIFT_KMeans_UnsupervisedLearning
+使用sift算法提取图像特征点，然后利用KMeans算法特征点进行聚类，然后进行匹配来实现基于内容的图像分类器
